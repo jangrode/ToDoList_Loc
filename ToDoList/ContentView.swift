@@ -38,7 +38,7 @@ struct ContentView: View {
                         Text(task.toDoItem)
                     }.onMove(perform: self.move)
                     .onDelete(perform: self.delete)
-                }.navigationBarTitle("Tasks")
+                }.navigationBarTitle("Header1")
                 .navigationBarItems(trailing: EditButton())
             }
         }

@@ -8,4 +8,5 @@
 
 "promptMessage1" = "Enter in a new task!";
 "promptMessage2" = "Add new";
+"Header1" = "TASKS";
 
