@@ -1,12 +1,3 @@
-/* 
-  ToDoList.strings (German)
-  ToDoList
-
-  Created by Jan Grodecki on 11/9/20.
-  
-*/
-
-"promptMessage1" = "Enter in a new task!";
-"promptMessage2" = "Add new";
-"Header1" = "TASKS";
-
+"promptMessage1" = "Fügen Sie eine neue Aufgabe hinzu!";
+"promptMessage2" = "Hinzufügen";
+"Header1" = "AUFGABEN";
