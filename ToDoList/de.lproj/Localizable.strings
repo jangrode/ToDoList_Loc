@@ -1,0 +1,12 @@
+/* 
+  ToDoList.strings
+  ToDoList
+
+  Created by Jan Grodecki on 11/9/20.
+  
+*/
+
+"promptMessage1" = "Enter in a new task!";
+"promptMessage2" = "Add new";
+"Header1" = "TASKS";
+
